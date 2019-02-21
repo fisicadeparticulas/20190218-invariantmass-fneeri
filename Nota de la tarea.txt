@@ -1,0 +1,7 @@
+Calculo de la masa invariante
+
+
+El ejercicio consistía en obtener la masa invariante de la muon 1, se informó que el muon 2 sí tenia su masa invariante.
+En realidad la masa invariante no era del muon 2, sino del par completo. Es decir es la raiz cuadrada de la suma de las energías (E1+E2) al cuadrado menos las componentes al ccuadrado de la suma de los momentos en los diferentes ejes.
+De tal manera que la columna (Masa(1-2)) concuerda con la columna (M).
+Sin embargo para calcular las masas individuales se obtuvo la raiz de la energia de cada particula y se le resto las componentes al cuadrado de cada particula.
